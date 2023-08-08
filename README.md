@@ -48,8 +48,8 @@ python -m streamlit run main.py --server.port 8000 --server.address 0.0.0.0
 3. Click **Actions**.
 4. A **workflow** should be running. 
 5. Wait until the process is finished. 
-6. If the workflow is failed, rerun the workflow. 
-7. If the workflow is succeed, click the link return by the workflow. 
-8. You will redirect to your Streamlit app. 
+6. If the workflow failed, rerun the workflow. 
+7. If the workflow succeed, click the link return by the workflow. 
+8. You will be redirected to your Streamlit app. 
 9. Deployment finished. 
 10. Congratulation you have deployed your app on Azure!
